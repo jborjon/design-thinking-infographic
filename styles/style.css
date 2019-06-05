@@ -1,0 +1,153 @@
+#skrollr-body {
+    width:710px;
+}
+
+.backgrounds {
+    width:100%;
+    height:762px;
+    overflow:hidden;
+}
+
+.backgrounds img {
+    display:block;
+    position:relative;
+}
+
+/*** Header ***/
+#one.backgrounds{
+    background-image:url(../IMG/backgrounds/background1.png);
+}
+
+#one.backgrounds #legacy-moments{
+    padding-top:119px;
+    margin-left:73.5px;
+}
+
+#one.backgrounds #yesterday{
+    position:relative;
+    display:block;
+    margin-left:200px;
+    margin-top:28px;
+}
+
+/*** Train ***/
+#two.backgrounds{
+    background-image:url(../IMG/backgrounds/background2.png);
+}
+
+/*** Donate ***/
+#three.backgrounds{
+    background-image:url(../IMG/backgrounds/background3.png);
+}
+
+#three.backgrounds #paper{
+    top:-1245px;
+    left:137px;
+    z-index:1;
+}
+
+#three.backgrounds #box_front{
+    top:-762px;
+    z-index:2;
+}
+
+#three.backgrounds #box_back{
+    z-index:0;
+}
+
+/*** Books ***/
+#four.backgrounds{
+    background-image:url(../IMG/backgrounds/background4.png);
+}
+
+#four.backgrounds #book1{
+    top:208px;
+    left:-5px;
+    z-index:3;
+}
+
+#four.backgrounds #book2{
+    top:-631px;
+    left:-26px;
+    z-index:2;
+}
+
+#four.backgrounds #book3{
+    top:-1444px;
+    left:23px;
+    z-index:1;
+}
+
+#four.backgrounds #book4{
+    top:-2280px;
+    z-index:0;
+}
+
+/*** Tractor ***/
+#five.backgrounds{
+    background-image:url(../IMG/backgrounds/background5.png);
+}
+
+#five.backgrounds #tractor-container{
+    position:relative;
+    left:-124px;
+    /*left:-250px;*/
+}
+
+#five.backgrounds #tractor{
+    margin-left:0px;
+}
+
+#five.backgrounds #dirt{
+    position:relative;
+    margin-left:-8px;
+    top:-765px;
+}
+
+#five.backgrounds #tractor-container #wheel_small{
+    top:-106px;
+    margin-left:716px;
+}
+
+#five.backgrounds #tractor-container #wheel_big{
+    margin-top:-1006px;
+    margin-left:467px;
+    position:relative;
+}
+
+/*** Shovel ***/
+#six.backgrounds{
+    background-image:url(../IMG/backgrounds/background6.png);
+}
+
+#six.backgrounds #shovel{
+    top:-700px;
+    z-index:1;
+}
+
+#six.backgrounds #dirt{
+    z-index:2;
+}
+
+#six.backgrounds #dirt-clods{
+    top:-977px;
+    left:199px;
+    z-index:1;
+}
+
+/*** Coins ***/
+#seven.backgrounds{
+    background-image:url(../IMG/backgrounds/background7.png);
+}
+
+#seven.backgrounds #coins{
+    top:-380px;
+    left:430px;
+
+}
+
+/*** Footer ***/
+#eight.backgrounds{
+    background-image:url(../IMG/backgrounds/background8.png);
+    height:629px !important;
+}

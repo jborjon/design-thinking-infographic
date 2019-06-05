@@ -1,0 +1,13 @@
+#infographic-title {
+    -skrollr-animation-name: title-appear;
+}
+
+@-skrollr-keyframes title-appear {
+    0 {
+        bottom: 16%;
+    }
+
+    10p-top {
+        bottom: 0;
+    }
+}
