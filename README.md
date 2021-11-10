@@ -1,4 +1,3 @@
-design-thinking-infographic
-===========================
+# Design Thinking Infographic
 
-The code for an infographic published at http://www.byui.edu/upward/fall-2013/design-thinking#.XPgHRIhKiUk.
+This is the code for a BYU-Idaho infographic originally published at http://www.byui.edu/upward/fall-2013/design-thinking#.XPgHRIhKiUk.
